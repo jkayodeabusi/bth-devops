@@ -1,1 +1,7 @@
 # start with your name on a comment like this follow by uncommented five lines
+# this line is for Arinze
+Username="Arinze Unaigwe"
+I live in Calgary, currently working remotely
+Occupation="Devops Engineer"
+So far I have learnt Linux Essentials, git and github
+echo Hi $Username
