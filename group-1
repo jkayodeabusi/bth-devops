@@ -1,7 +1,18 @@
+
 # start with your name on a comment like this follow by uncommented five lines
+#<<<<<<< group-1-nafeesah
+
+# Nafeesah
+1 Created a new public repo on Saturday
+2 Pushed a file into it with no hassle
+3 Exposed confidential AWS credentials in the file
+4 Oh wow! An unkind lad latched on that loophole, bam!!
+5 Still cleaning up the mess he left for me <eyeroll>
+#=======
 # this line is for Arinze
 Username="Arinze Unaigwe"
 I live in Calgary, currently working remotely
 Occupation="Devops Engineer"
 So far I have learnt Linux Essentials, git and github
 echo Hi $Username
+#>>>>>>> main
